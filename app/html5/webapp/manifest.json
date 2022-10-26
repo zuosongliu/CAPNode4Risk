@@ -1,0 +1,17 @@
+{
+    "_version": "",
+    "sap.cloud": {
+        "public": true,
+        "service": "capnodejs-service"
+    },
+    "sap.app": {
+        "id": "capnodejs-html5",
+        "type": "application",
+        "applicationVersion": {
+            "version": "0.0.1"
+        },
+        "title": "Cap NodeJs Demo HTML5",
+        "description": "Business Application HTML5",
+        "offline": false
+    }
+}
